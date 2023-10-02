@@ -44,7 +44,6 @@
                 </Frame>
 
                 <Button BackgroundColor="#0384fc" CornerRadius="0" HeightRequest="60" Text="Sign In" FontSize="20" FontAttributes="Bold" />
-<!--Lest create borderless entry -->
                 <Label FontAttributes="Bold" Text="Forgot Password?" TextColor="White" HorizontalTextAlignment="Center" />
                 <HorizontalStackLayout HorizontalOptions="Center" Spacing="10">
                     <Label  FontAttributes="Bold" TextColor="White" Text="Don't have account?" VerticalTextAlignment="Center" />
